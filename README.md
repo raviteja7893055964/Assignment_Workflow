@@ -4,7 +4,7 @@ steps for backend:
 3. open terminal in code editor and run the command npm install,
    npm run seed
    and then npm start
-
+   
 steps for frontend:
 1. change directory to assignment-frontend
 2. open terminal and run the command npm install and then npm start
